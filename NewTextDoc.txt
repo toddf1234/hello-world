@@ -1,1 +1,3 @@
 This is a new text document.
+
+And now I've added a new line.
